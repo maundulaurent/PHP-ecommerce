@@ -8,3 +8,6 @@ pass:1234
 user access:
 saifulislamsapon@gmail.com
 123
+
+
+http://localhost/projects/ecomm/
